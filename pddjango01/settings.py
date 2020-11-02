@@ -25,7 +25,7 @@ SECRET_KEY = 'plrh1+twjl1ix4uw!l++0_5o4a7q5o_@@^r_sqq_i8g=%2&g!d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://pdazure1.azurewebsites.net"]
+ALLOWED_HOSTS = ["pdazure1.azurewebsites.net"]
 
 
 # Application definition
